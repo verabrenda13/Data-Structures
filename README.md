@@ -1,2 +1,5 @@
 # Data-Structures
-Data structures assignment
+SIT/B/01-02927/2022
+SIT/B/01-02924/2022
+SIT/B/01-02896/2022
+SIT/B/01-02904/2022
